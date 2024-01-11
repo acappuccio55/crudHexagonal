@@ -3,7 +3,6 @@ package com.hexagonal.tasks.application.services;
 import com.hexagonal.tasks.domain.models.AdditionalTaskInfo;
 import com.hexagonal.tasks.domain.models.Task;
 import com.hexagonal.tasks.domain.ports.in.*;
-import org.hibernate.sql.Update;
 
 import java.util.List;
 import java.util.Optional;
